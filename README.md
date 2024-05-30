@@ -6,7 +6,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm a passionate software developer with a keen interest in web development and open-source projects. I love creating efficient and scalable web applications and always strive to write clean and maintainable code.
+I'm a passionate mobile developer with a keen interest in web development and open-source projects. I love creating efficient and scalable mobile applications and always strive to write clean and maintainable code.
 
 - 🌍 Based in: Bandung, West Java, Indonesia 
 - 🧑‍🎓 Education: Ungraduated student of Software Engineering at Telkom University
