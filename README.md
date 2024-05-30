@@ -40,7 +40,7 @@ I'm a passionate mobile developer with a keen interest in web development and op
 
 - LinkedIn: [Muhammad Abiyyu Al-Ghifari](https://www.linkedin.com/in/muhammad-abiyyu-al-ghifari-b96259243/)
 - Twitter: [noodbresta](https://x.com/stackOverYou)
-- Email: [Your Email](mailto:abiyyurahid20@gmail.com)
+- Email: [abiyyurahid20@gmail.com](mailto:abiyyurahid20@gmail.com)
 
 ---
 
