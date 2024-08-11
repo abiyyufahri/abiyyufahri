@@ -22,6 +22,7 @@ I'm a passionate mobile developer with a keen interest in web development and op
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - **Frameworks & Libraries:**
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  - [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev)
   - ![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat&logo=next.js&logoColor=white)
   - ![Express.js](https://img.shields.io/badge/-Express.js-339933?style=flat&logo=express.js&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
