@@ -49,7 +49,7 @@ I'm a passionate mobile developer with a keen interest in web development and op
 
 ## 💡 Fun Fact
 
-When I'm not coding, you can find me [Twitter](https://x.com/stackOverYou)
+When I'm not coding, you can find me on [Twitter](https://x.com/stackOverYou)
 
 ---
 
